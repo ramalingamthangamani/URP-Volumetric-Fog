@@ -1,0 +1,30 @@
+{
+  "name": "com.ram.urp-volumetric-fog",
+  "version": "1.1.0",
+  "displayName": "URP Volumetric Fog",
+  "description": "Raymarched volumetric fog and light shafts for URP 17 / Unity 6. RenderGraph-only, XR single-pass instanced safe, half-resolution marching with a depth-aware upsample. Main directional light shadows produce true god rays; point/spot lights opt in per-light via VolumetricFogLight.",
+  "unity": "6000.0",
+  "keywords": [
+    "urp",
+    "fog",
+    "volumetric",
+    "lighting",
+    "godrays",
+    "xr",
+    "vr"
+  ],
+  "author": {
+    "name": "Ram"
+  },
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "17.0.4"
+  },
+  "license": "MIT",
+  "samples": [
+    {
+      "displayName": "Beams Without Haze",
+      "description": "Volume profile preset for indoor VR: visible lamp cones, no haze on objects, environment lighting untouched.",
+      "path": "Samples~/BeamsWithoutHaze"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+# Unity editor/IDE junk — a package folder has no Library/, keep everything else incl. .meta
+*.csproj
+*.sln
+*.suo
+*.user
+.vs/
+.idea/
+.vscode/
+obj/
+Temp/
+Logs/
+UserSettings/
+*.pidb
+*.booproj
+*.svd
+*.DS_Store
+Thumbs.db
