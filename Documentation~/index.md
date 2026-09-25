@@ -10,7 +10,7 @@ built from scratch with the RenderGraph API and XR single-pass rendering in mind
 Package Manager ▸ **Add package from git URL**, or add to `Packages/manifest.json`:
 
 ```json
-"com.ram.urp-volumetric-fog": "https://github.com/<user>/urp-volumetric-fog.git#v1.1.0"
+"com.ram.volumetric-lighting": "https://github.com/<user>/urp-volumetric-fog.git#v1.1.0"
 ```
 
 ## Set up (3 steps)

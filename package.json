@@ -1,5 +1,5 @@
 {
-  "name": "com.ram.urp-volumetric-fog",
+  "name": "com.ram.volumetric-lighting",
   "version": "1.1.0",
   "displayName": "URP Volumetric Fog",
   "description": "Raymarched volumetric fog and light shafts for URP 17 / Unity 6. RenderGraph-only, XR single-pass instanced safe, half-resolution marching with a depth-aware upsample. Main directional light shadows produce true god rays; point/spot lights opt in per-light via VolumetricFogLight.",
